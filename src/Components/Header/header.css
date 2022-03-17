@@ -1,0 +1,27 @@
+
+.header__main{
+    min-height : 80px ;
+}
+
+.header__link{
+    border : 1px solid lightgray ;
+    margin : 0 10px ;
+    /* padding : 0px 27px !important; */
+    border-radius: 4px ;
+    display: block;
+}
+.dropdown__dark{
+    background: #222;
+    color : #fff ;
+}
+.cart__item{
+    margin-left: 7px ;
+    border : 1px dashed lightgray ;
+    padding : 3px 7px ;
+    border-radius: 7px ;
+}
+
+.spinner_cls{
+    height : 15px ;
+    width : 15px ;
+}
